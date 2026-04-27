@@ -225,3 +225,4 @@ data/processed/
 /models/model.pkl
 /reports/metrics.json
 /reports/experiment_info.json
+eksctl.exe
