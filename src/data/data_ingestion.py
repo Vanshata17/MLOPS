@@ -4,8 +4,8 @@ import pandas as pd
 pd.set_option('future.no_silent_downcasting', True)
 
 import os
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 from sklearn.model_selection import train_test_split
 import yaml
 import logging
