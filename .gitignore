@@ -220,3 +220,4 @@ cred.txt
 .env
 data/interim/
 data/raw/
+data/processed/
