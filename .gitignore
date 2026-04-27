@@ -226,3 +226,4 @@ data/processed/
 /reports/metrics.json
 /reports/experiment_info.json
 eksctl.exe
+projectflow.txt
