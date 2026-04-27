@@ -221,3 +221,7 @@ cred.txt
 data/interim/
 data/raw/
 data/processed/
+/models/vectorizer.pkl
+/models/model.pkl
+/reports/metrics.json
+/reports/experiment_info.json
