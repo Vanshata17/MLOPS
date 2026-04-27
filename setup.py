@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='end to end mlops project',
-    author='vanshata',
+    author='vanshata jaiswal',
     license='MIT',
 )
